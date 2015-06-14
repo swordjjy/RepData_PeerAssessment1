@@ -125,7 +125,7 @@ median(steps.date$steps)
 ```
 
 
-The new median of total steps taken per day is greater than that of the old median.
+After imputing the missing data, the new mean of total steps taken per day is same as that of the old mean; the new median of total steps taken per day is greater than that of the old median.
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
